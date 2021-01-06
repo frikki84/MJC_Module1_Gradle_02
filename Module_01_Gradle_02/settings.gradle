@@ -1,0 +1,5 @@
+rootProject.name = 'Module_01_Gradle_02'
+include('api', 'core')
+include 'api'
+include 'core'
+
