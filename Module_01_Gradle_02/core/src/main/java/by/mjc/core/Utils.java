@@ -1,5 +1,7 @@
 package by.mjc.core;
 
+import by.mjc.dziadkouskaya.StringUtils;
+
 public class Utils {
 
    public static boolean isAllPositiveNumbers(String... str) {
